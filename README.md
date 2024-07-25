@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaprakash0003&label=Profile%20views&color=0e75b6&style=flat" alt="jayaprakash0003" /> </p>
 
 - 💬 Ask me about **DSA,MERN**
+- - 🔭 I’m currently working on **Chat-App**
+- 📫 How to reach me **jayaprakash.ec21@bitsathy.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
